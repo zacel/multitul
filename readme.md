@@ -24,7 +24,7 @@ takes an array and returns it in randomized order. Optionally you can provide a 
 Usage:
 ```
 var randomizedArrayRamMode = randomize.array(myArr);
-var anotherRandomizedArrayCpuMode = randomize.array.cpu(myArr, true);
+var anotherRandomizedArrayCpuMode = randomize.array(myArr, true);
 ```
 
 
