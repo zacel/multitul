@@ -1,9 +1,22 @@
 TN:
+SF:/Users/x/programs/javascript Projects/multitul/index.js
+FNF:0
+FNH:0
+DA:1,1
+DA:2,1
+DA:4,1
+DA:5,1
+LF:4
+LH:4
+BRF:0
+BRH:0
+end_of_record
+TN:
 SF:/Users/x/programs/javascript Projects/multitul/modules/base64ify/index.js
 FNF:0
 FNH:0
-DA:1,2
-DA:4,2
+DA:1,3
+DA:4,3
 LF:2
 LH:2
 BRF:0
@@ -21,8 +34,8 @@ DA:2,1
 DA:3,1
 DA:7,1
 DA:8,1
-DA:11,2
-DA:12,2
+DA:11,3
+DA:12,3
 LF:6
 LH:6
 BRF:0
@@ -38,8 +51,8 @@ FNDA:25,float
 FNDA:24,int
 DA:4,25
 DA:8,24
-DA:11,3
-DA:12,3
+DA:11,4
+DA:12,4
 LF:4
 LH:4
 BRF:0
@@ -59,7 +72,7 @@ FNDA:2,ram
 FNDA:15,(anonymous_2)
 FNDA:1,cpu
 FNDA:4,(anonymous_4)
-DA:1,3
+DA:1,4
 DA:5,3
 DA:6,1
 DA:8,2
@@ -76,9 +89,9 @@ DA:26,4
 DA:27,4
 DA:28,4
 DA:30,1
-DA:32,3
-DA:33,3
-DA:34,3
+DA:32,4
+DA:33,4
+DA:34,4
 LF:20
 LH:20
 BRDA:4,0,0,2
@@ -91,10 +104,10 @@ TN:
 SF:/Users/x/programs/javascript Projects/multitul/modules/randomize/index.js
 FNF:0
 FNH:0
-DA:1,3
-DA:2,3
-DA:3,3
-DA:6,3
+DA:1,4
+DA:2,4
+DA:3,4
+DA:6,4
 LF:4
 LH:4
 BRF:0
@@ -106,11 +119,11 @@ FN:3,(anonymous_0)
 FNF:1
 FNH:1
 FNDA:1,(anonymous_0)
-DA:1,3
-DA:3,3
+DA:1,4
+DA:3,4
 DA:4,1
 DA:5,1
-DA:9,3
+DA:9,4
 LF:5
 LH:5
 BRF:0

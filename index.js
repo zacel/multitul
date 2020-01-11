@@ -1,3 +1,5 @@
-import randomString from './modules/randomize';
+var Randomize = require('./modules/randomize');
+var Base64ify = require('./modules/base64ify');
 
-export {randomString};
+exports.Randomize = Randomize;
+exports.Base64ify = Base64ify;

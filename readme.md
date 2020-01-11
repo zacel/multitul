@@ -1,7 +1,10 @@
 # Multitul  
+These are modules that I reuse between js projects so I'm packaging them all together. They are organized a bit. Each section is named for the type of modules it contains.
+
 
 
 ## Base64ify Modules
+> Used for manipulating data into and out of base64 format
 1. ```encode```
 takes a single string argument and returns it in base64 encoded format.
 Usage:
@@ -19,6 +22,7 @@ var decoded = base64ify.decode("your base 64 encoded string");
 -------
 
 ## Randomize Modules
+> Used to randomize data
 1. ```array```
 takes an array and returns it in randomized order. Optionally you can provide a boolean as a second argument to specifiy which version of the array randomizer to use (ram or cpu). The default mode is ram.
 Usage:
